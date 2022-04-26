@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9c1eb33c-b357-4460-ab19-8593f0a36b7d": {
+      "ProjectGuid": "9c1eb33c-b357-4460-ab19-8593f0a36b7d",
+      "DisplayName": "BTPT",
+      "ColorIndex": 0
+    },
+    "19596237-7205-47ec-bf49-4a3a36c8e894": {
+      "ProjectGuid": "19596237-7205-47ec-bf49-4a3a36c8e894",
+      "DisplayName": "Animal",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

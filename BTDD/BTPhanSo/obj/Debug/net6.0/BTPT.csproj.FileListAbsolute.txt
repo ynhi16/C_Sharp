@@ -1,0 +1,15 @@
+C:\Users\nguye\Documents\Visual Studio 2022\BTPhanSo\BTPhanSo\bin\Debug\net6.0\BTPT.exe
+C:\Users\nguye\Documents\Visual Studio 2022\BTPhanSo\BTPhanSo\bin\Debug\net6.0\BTPT.deps.json
+C:\Users\nguye\Documents\Visual Studio 2022\BTPhanSo\BTPhanSo\bin\Debug\net6.0\BTPT.runtimeconfig.json
+C:\Users\nguye\Documents\Visual Studio 2022\BTPhanSo\BTPhanSo\bin\Debug\net6.0\BTPT.dll
+C:\Users\nguye\Documents\Visual Studio 2022\BTPhanSo\BTPhanSo\bin\Debug\net6.0\ref\BTPT.dll
+C:\Users\nguye\Documents\Visual Studio 2022\BTPhanSo\BTPhanSo\bin\Debug\net6.0\BTPT.pdb
+C:\Users\nguye\Documents\Visual Studio 2022\BTPhanSo\BTPhanSo\obj\Debug\net6.0\BTPT.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\Visual Studio 2022\BTPhanSo\BTPhanSo\obj\Debug\net6.0\BTPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Documents\Visual Studio 2022\BTPhanSo\BTPhanSo\obj\Debug\net6.0\BTPT.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\Visual Studio 2022\BTPhanSo\BTPhanSo\obj\Debug\net6.0\BTPT.AssemblyInfo.cs
+C:\Users\nguye\Documents\Visual Studio 2022\BTPhanSo\BTPhanSo\obj\Debug\net6.0\BTPT.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\Visual Studio 2022\BTPhanSo\BTPhanSo\obj\Debug\net6.0\BTPT.dll
+C:\Users\nguye\Documents\Visual Studio 2022\BTPhanSo\BTPhanSo\obj\Debug\net6.0\ref\BTPT.dll
+C:\Users\nguye\Documents\Visual Studio 2022\BTPhanSo\BTPhanSo\obj\Debug\net6.0\BTPT.pdb
+C:\Users\nguye\Documents\Visual Studio 2022\BTPhanSo\BTPhanSo\obj\Debug\net6.0\BTPT.genruntimeconfig.cache
