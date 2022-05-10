@@ -1,0 +1,15 @@
+C:\Users\nguye\Documents\Visual Studio 2022\mangdd\mangdd\bin\Debug\net6.0\mangdd.exe
+C:\Users\nguye\Documents\Visual Studio 2022\mangdd\mangdd\bin\Debug\net6.0\mangdd.deps.json
+C:\Users\nguye\Documents\Visual Studio 2022\mangdd\mangdd\bin\Debug\net6.0\mangdd.runtimeconfig.json
+C:\Users\nguye\Documents\Visual Studio 2022\mangdd\mangdd\bin\Debug\net6.0\mangdd.dll
+C:\Users\nguye\Documents\Visual Studio 2022\mangdd\mangdd\bin\Debug\net6.0\ref\mangdd.dll
+C:\Users\nguye\Documents\Visual Studio 2022\mangdd\mangdd\bin\Debug\net6.0\mangdd.pdb
+C:\Users\nguye\Documents\Visual Studio 2022\mangdd\mangdd\obj\Debug\net6.0\mangdd.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\Visual Studio 2022\mangdd\mangdd\obj\Debug\net6.0\mangdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Documents\Visual Studio 2022\mangdd\mangdd\obj\Debug\net6.0\mangdd.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\Visual Studio 2022\mangdd\mangdd\obj\Debug\net6.0\mangdd.AssemblyInfo.cs
+C:\Users\nguye\Documents\Visual Studio 2022\mangdd\mangdd\obj\Debug\net6.0\mangdd.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\Visual Studio 2022\mangdd\mangdd\obj\Debug\net6.0\mangdd.dll
+C:\Users\nguye\Documents\Visual Studio 2022\mangdd\mangdd\obj\Debug\net6.0\ref\mangdd.dll
+C:\Users\nguye\Documents\Visual Studio 2022\mangdd\mangdd\obj\Debug\net6.0\mangdd.pdb
+C:\Users\nguye\Documents\Visual Studio 2022\mangdd\mangdd\obj\Debug\net6.0\mangdd.genruntimeconfig.cache
