@@ -18,18 +18,22 @@ namespace mangdd
             Console.Write("Hien thi mang:");
             for (int i = 0; i < 10; i++)
                 Console.Write(a[i] + " ");
+        } 
+        static void Sxeptangdan (int[] a)
+        {
+
         }
-        
         static void Main(string[] args)
         {
-            int i, mx, mn;
+            int i,j, mx, mn,tmp;
             int[] a = new int[100];
             nhap(a);
             xuat(a);
             mx = a[0];
             mn = a[0];
+            
             Console.WriteLine(mn);
-            for (i = 0; i < a.Length; i++)
+            for (i = 0; i < 10; i++)
             {
                 if (a[i] > mx)
                 {
@@ -39,7 +43,7 @@ namespace mangdd
 
                
             }
-            for (i = 0; i < a.Length; i++)
+            for (i = 0; i < 10; i++)
             {
 
                 if (a[i] < mn)
@@ -50,6 +54,43 @@ namespace mangdd
             }
             Console.Write("\nPhan tu lon nhat trong mang la: {0}\n", mx);
             Console.Write("Phan tu nho nhat trong mang la: {0}\n\n", mn);
+            for (i = 0; i < 10; i++)
+            {
+                for (j = i + 1; j < 10; j++)
+                {
+                    if (a[j] < a[i])
+                    {
+                        //cach trao doi gia tri
+                        tmp = a[i];
+                        a[i] = a[j];
+                        a[j] = tmp;
+                    }
+                }
+            }
+            Console.Write("\nIn cac phan tu mang theo thu tu tang dan:\n");
+            for (i = 0; i < 10; i++)
+            {
+                Console.Write("{0}  ", a[i]);
+            }
+            for (i = 0; i < 10; i++)
+            {
+                for (j = i + 1; j < 10; j++)
+                {
+                    if (a[i] < a[j])
+                    {
+                        //cach trao doi gia tri
+                        tmp = a[i];
+                        a[i] = a[j];
+                        a[j] = tmp;
+                    }
+                }
+            }
+
+            Console.Write("\nIn cac phan tu mang theo thu tu giam dan:\n");
+            for (i = 0; i < 10; i++)
+            {
+                Console.Write("{0}  ", a[i]);
+            }
             Console.ReadKey();
         }
     }
