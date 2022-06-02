@@ -1,0 +1,8 @@
+C:\Users\nguye\Documents\Visual Studio 2022\lab01\BT4\bin\Debug\BT4.exe.config
+C:\Users\nguye\Documents\Visual Studio 2022\lab01\BT4\bin\Debug\BT4.exe
+C:\Users\nguye\Documents\Visual Studio 2022\lab01\BT4\bin\Debug\BT4.pdb
+C:\Users\nguye\Documents\Visual Studio 2022\lab01\BT4\obj\Debug\BT4.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\Visual Studio 2022\lab01\BT4\obj\Debug\BT4.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Documents\Visual Studio 2022\lab01\BT4\obj\Debug\BT4.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\Visual Studio 2022\lab01\BT4\obj\Debug\BT4.exe
+C:\Users\nguye\Documents\Visual Studio 2022\lab01\BT4\obj\Debug\BT4.pdb
